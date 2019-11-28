@@ -3,7 +3,7 @@ def join_ingredients(src)
   output = []
   index = 0
   while index < src.length do 
-    output= "I love #{inner[0]} and #{inner[1]} on my pizza"
+    output << "I love #{inner[0]} and #{inner[1]} on my pizza"
     index -= -1 
   end 
   output
