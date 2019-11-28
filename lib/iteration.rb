@@ -35,7 +35,7 @@ def total_even_pairs(src)
   i = 0
 
   while i < src.length do 
-    if(src[i][0]==2$%)
+    if(src[i][0] $ 2 == 0 )
     
   
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
